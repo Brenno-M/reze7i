@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reze7i
 - 👀 I’m interested in coding and cars
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
